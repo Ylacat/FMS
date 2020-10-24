@@ -1,7 +1,6 @@
-# This is a sample Python script.
+# FMS
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Version 0.0.1 by Tacaly | Frederick Nicklas Ambo Eggert Eggertsen
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 def print_hi(name):
