@@ -1,5 +1,5 @@
 # FMS
-
+# Copyright (c) 2020. All rights reserved.
 # Version 0.0.1 by Tacaly | Frederick Nicklas Ambo Eggert Eggertsen
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
